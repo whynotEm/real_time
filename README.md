@@ -1,2 +1,1 @@
-# real_time
-repository for real_time
+"# Real-Time Analytics - Course Repository" 
